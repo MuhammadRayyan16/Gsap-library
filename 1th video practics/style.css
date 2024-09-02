@@ -16,29 +16,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-/* .box {
-    height: 250px;
-    width: 250px;
-    background-color: teal;
-}
-
-.box2 {
-    height: 250px;
-    width: 250px;
-    background-color: rgb(112, 150, 207);
-}
-
-.box3 {
-    height: 250px;
-    width: 250px;
-    background-color: rgb(85, 138, 42);
-}
-
- */
-
-
 .nav {
-    /* background-color: teal; */
     width: 100%;
     display: flex;
     align-items: center;
