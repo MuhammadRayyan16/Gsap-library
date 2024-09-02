@@ -21,9 +21,6 @@ body {
     height: 110%;
     width: 100%;
     background-color: teal;
-    /*display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 
@@ -31,11 +28,6 @@ body {
     height: 100%;
     width: 100%;
     background-color: rgb(55, 161, 168);
-    /* display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 30px; */
 }
 
 
@@ -50,13 +42,5 @@ h1 {
     height: 100%;
     width: 100%;
     background-color: rgb(69, 114, 73);
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-}
 
-/* .box {
-    background-color: pink;
-    height: 250px;
-    width: 250px;
-} */
+}
