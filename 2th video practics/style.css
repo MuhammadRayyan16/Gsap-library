@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow-x: hidden;
+}
+
+.page1 {
+    height: 110%;
+    width: 100%;
+    background-color: teal;
+    /*display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+
+#page2 {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(55, 161, 168);
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px; */
+}
+
+
+h1 {
+    color: #000;
+    font-size: 30vw;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.page3 {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(69, 114, 73);
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+/* .box {
+    background-color: pink;
+    height: 250px;
+    width: 250px;
+} */
